@@ -6,7 +6,6 @@ sleep 10
 
 while true
  do
-    echo "$DELAY"
     ./crazy-monkey.sh
     sleep $DELAY
  done
