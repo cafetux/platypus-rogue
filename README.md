@@ -11,5 +11,7 @@ kill random non root process
 ## platypus-rogue.sh 
 Launch random-kill.sh each n seconds
 usage 
+
 ./platypus-rogue.sh 60 
+
 To kill random process every minutes
