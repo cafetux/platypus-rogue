@@ -6,6 +6,6 @@ sleep 10
 
 while true
  do
-    ./crazy-monkey.sh
+    ./random-kill.sh
     sleep $DELAY
  done
